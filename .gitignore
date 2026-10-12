@@ -1,0 +1,22 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+*.egg-info/
+
+# Ryobi APKs and temporary decompile artifacts
+*.apk
+*.zip
+com.ryobitools.phoneworks*
+native_decomp.asm
+
+# Output CSV logs
+*.csv
