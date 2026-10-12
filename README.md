@@ -2,6 +2,10 @@
 
 スマートフォン用アタッチメント工具「**Ryobi Phone Works ES2000（赤外線放射温度計）**」を、公式アプリ（Android APK）のリバースエンジニアリングによってプロトコル解析し、**MacBookの3.5mmオーディオジャックから直接駆動・リアルタイム温度取得**できるようにしたPythonスクリプトです。
 
+| 外観 & レーザー点灯 | MacBook接続状態 | リアルタイム計測画面 |
+| :---: | :---: | :---: |
+| <img src="images/es2000_laser_active.jpg" width="260" alt="ES2000 Front with Laser" /> | <img src="images/es2000_macbook_connection.jpg" width="260" alt="ES2000 Connected to Mac" /> | <img src="images/es2000_terminal_realtime.jpg" width="320" alt="Realtime Terminal Output" /> |
+
 ---
 
 ## 主な機能

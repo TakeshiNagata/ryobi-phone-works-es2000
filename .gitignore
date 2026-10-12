@@ -18,5 +18,9 @@ env/
 com.ryobitools.phoneworks*
 native_decomp.asm
 
+# Raw photo imports
+Photos*/
+
 # Output CSV logs
 *.csv
+
